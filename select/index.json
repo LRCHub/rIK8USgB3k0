@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "夜永唄",
+  "base_artist": "Nornis",
+  "createdAt": "2025-12-08T07:40:30.449436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜永唄 – From THE FIRST TAKE",
+      "artist": "KAMI WA SAIKORO WO FURANAI",
+      "has_synced": true,
+      "path": "select/01_夜永唄_–_From_THE_FIRST_TAKE_KAMI_WA_SAIKORO_WO_FURANAI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜永唄",
+      "artist": "KAMI WA SAIKORO WO FURANAI",
+      "has_synced": true,
+      "path": "select/02_夜永唄_KAMI_WA_SAIKORO_WO_FURANAI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜永唄 – From THE FIRST TAKE",
+      "artist": "神はサイコロを振らない",
+      "has_synced": false,
+      "path": "select/03_夜永唄_–_From_THE_FIRST_TAKE_神はサイコロを振らない.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜永唄",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_夜永唄_Nornis.txt"
+    }
+  ]
+}
